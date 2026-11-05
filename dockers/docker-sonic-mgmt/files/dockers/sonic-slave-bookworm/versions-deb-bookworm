@@ -5,9 +5,10 @@ ant==1.10.13-1
 ant-optional==1.10.13-1
 apparmor==3.0.8-3
 appstream==0.16.1-2+b1
+apt==2.6.2
 apt-file==3.3
-apt-transport-https==2.6.1
-apt-utils==2.6.1
+apt-transport-https==2.6.2
+apt-utils==2.6.2
 arch-test==0.20-1
 asciidoctor==2.0.18-2
 aspell==0.60.8-4+b1
@@ -273,6 +274,7 @@ libapparmor1==3.0.8-3
 libappconfig-perl==1.71-2.2
 libappstream4==0.16.1-2+b1
 libapt-pkg-perl==0.1.40+b2
+libapt-pkg6.0==2.6.2
 libarchive-cpio-perl==0.10-3
 libarchive-zip-perl==1.68-1
 libarchive13==3.6.2-1+deb12u5
